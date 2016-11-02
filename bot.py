@@ -107,6 +107,19 @@ insultList = [
     ', learn from your parents\' mistakes - use birth control!',
     ', calling you stupid would be an insult to stupid people.',
     ', can I borrow your face for a few days while my ass is on vacation?'
+    ', If you\'re gonna be a smartass, first you have to be smart. Otherwise you\'re just an ass.'
+    ', You\'re so ugly, when you popped out the doctor said \"Aww what a treasure\" and your mom said \"Yeah, lets bury it.\"'
+    ', Somewhere out there is a tree, tirelessly producing oxygen so you can breathe. I think you owe it an apology.'
+    ', You\'re so ugly you scare the shit back into people.'
+    ', Why don\'t you slip into something more comfortable -- like a coma.'
+    ', You\'re the reason the gene pool needs a lifeguard.'
+    ', Why don\'t you check eBay and see if they have a life for sale.'
+    ', You didn\'t fall out of the stupid tree. You were dragged through dumbass forest.'
+    ', I\'d like to see things from your point of view but I can\'t seem to get my head that far up my ass.'
+    ', If laughter is the best medicine, your face must be curing the world.'
+    ', I wasn\'t programmed with enough middle fingers to let you know how I feel about you. 凸 (｀0´)凸'
+
+
 ]
 insult2List = [
     'Hey ',
